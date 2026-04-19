@@ -112,7 +112,7 @@ Reference pages for DOM, events, fetch, storage, canvas, and many other browser 
 
 ## Node.js
 
-#### [Node.js Design Patterns](https://www.oreilly.com/library/view/nodejs-design-patterns/9781839214110/) — *Paid*
+#### [Node.js Design Patterns](https://nodejsdesignpatterns.com) — *Paid* (free chapter available)
 
 A strong guide to building scalable Node applications with proven patterns, architecture, and async best practices.
 
